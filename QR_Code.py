@@ -1,7 +1,3 @@
-
-
-# import qrcode
-# qrcode.make("Hello World").save("simple_qr.png")
 import qrcode
 from tkinter import *
 from tkinter import messagebox, filedialog
